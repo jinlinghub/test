@@ -5,4 +5,10 @@
 int main(void)
 {
 	printf("---------\r\n");
+	printf("---------\r\n");
+	printf("---------\r\n");
+	printf("---------\r\n");
+	printf("---------\r\n");
+	printf("---------\r\n");
+
 }
